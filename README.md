@@ -1,15 +1,12 @@
 ## Oi! Eu sou a Talita Favrin!
-<div align ="center">
-    <a href = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
-    <img align="left" height = "180em" src = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
-   </a>
-    <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-    <img align="right" height = "180em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-  </a>
-   <p> 👩‍🏫 Graduada em História (Unicamp) </p>
+<div>
+   <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+    <img align="right" height = "170em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+  </a> 
+      <p> 👩‍🏫 Graduada em História (Unicamp) </p>
       <p> 👩‍💻 Graduanda em Ciência de Dados (Univesp) </p>
       <p> 📚 Empolgada por aprender coisas novas </p>
-      <p>📈 Em transição de carreira </p>
+        <p>📈 Em transição de carreira </p>
 </div>
    
 ##
