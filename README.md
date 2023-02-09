@@ -1,13 +1,11 @@
 ## Oi! Eu sou a Talita Favrin!
 <div align="center">
    <a href = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
-    <img height = "150em" src = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
+    <img height = "200em" src = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
+   </a>
   <a href = "https://github.com/tfavrin">
-    <img height = "150em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
-    <img height = "150em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
-  </a>
-  <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-    <img height = "150em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+    <img height = "200em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
+    <img height = "200em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
   </a>
 </div>
 
@@ -24,8 +22,15 @@
 
 ##
 
-- 👩‍🏫 Graduada em História (Unicamp);
-- 👩‍💻 Graduanda em Ciência de Dados (Univesp); 
-- 📚 Empolgada por aprender coisas novas; 
-- 📈 Em transição de carreira! 
+<div align ="center">
+    <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+    <img height = "200em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+  </a>
+      <p> 👩‍🏫 Graduada em História (Unicamp); </p>
+      <p> 👩‍💻 Graduanda em Ciência de Dados (Univesp); </p>
+      <p> 📚 Empolgada por aprender coisas novas; </p>
+      <p>📈 Em transição de carreira! </p> 
+</div>
+   
+
 
