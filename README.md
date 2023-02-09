@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Talita Favrin!
 <div>
-   <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-    <img align="right" height = "200em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+   <a href = "http://33.media.tumblr.com/208ba9f9979ddf992f2220c88be35ac8/tumblr_nrhjtaY3rK1s9362xo1_500.gif">
+    <img align="right" height = "200em" src = "http://33.media.tumblr.com/208ba9f9979ddf992f2220c88be35ac8/tumblr_nrhjtaY3rK1s9362xo1_500.gif">
   </a> 
       <p> 👩‍🏫 Graduada em História (Unicamp) </p>
       <p> 👩‍💻 Graduanda em Ciência de Dados (Univesp) </p>
