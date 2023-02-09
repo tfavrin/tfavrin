@@ -1,13 +1,13 @@
 ## Oi! Eu sou a Talita Favrin!
 <div align="center">
    <a href = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
-    <img height = "180em" src = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
+    <img height = "170em" src = "https://media.tenor.com/HChP5h1C_K4AAAAM/cat-work-get-to-work.gif">
   <a href = "https://github.com/tfavrin">
-    <img height = "180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
-    <img height = "180em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
+    <img height = "170em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
+    <img height = "170em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
   </a>
   <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-    <img height = "180em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+    <img height = "170em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
   </a>
 </div>
 
