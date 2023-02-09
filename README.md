@@ -11,7 +11,7 @@
 </br>
 
 <div>
-  <a href = "mailto:favrint@gmail.com">
+  <a href="mailto:favrint@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href = "https://www.linkedin.com/in/talita-favrin-de-souza-6676b7198/">
