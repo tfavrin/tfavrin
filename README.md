@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href = "https://github.com/tfavrin">
-    <img height = "220em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
-    <img height = "220em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
+    <img height = "230em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=tfavrin&show_icons=true&theme=calm">
+    <img height = "230em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
   </a>
 </div>
 
