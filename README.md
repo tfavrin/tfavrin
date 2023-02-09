@@ -1,15 +1,14 @@
 ## Oi! Eu sou a Talita Favrin!
 <div>
    <a href = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
-    <img align="right" height = "170em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
+    <img align="right" height = "200em" src = "https://media.tenor.com/F-abu8zblNUAAAAd/cat-aaaaa.gif">
   </a> 
       <p> 👩‍🏫 Graduada em História (Unicamp) </p>
       <p> 👩‍💻 Graduanda em Ciência de Dados (Univesp) </p>
       <p> 📚 Empolgada por aprender coisas novas </p>
         <p>📈 Em transição de carreira </p>
 </div>
-   
-##
+</br></br></br></br>
 
 <div align="center">
   <a href = "mailto:favrint@gmail.com">
@@ -28,13 +27,6 @@
     <img height = "200em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tfavrin&theme=calm">
   </a>
 </div>
-
-##
-
-
-
-##
-
 
 
 
